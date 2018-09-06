@@ -452,6 +452,22 @@ input:-webkit-autofill:focus {
     margin-bottom: -153px;
 }
 
+/*-- 8. Opinion-Area --*/
+
+.opinion-area {
+    background-image: url('images/adorable-animal-bed-374898.jpg');
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: auto 100%;
+    margin-top: 90px;
+    margin-bottom: 220px;
+}
+
+.opinion-area .mobile-image {
+    margin-top: -90px;
+    margin-bottom: -153px;
+}
+
 /*-- 9. Video-Area --*/
 
 .video-area {

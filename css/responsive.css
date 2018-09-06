@@ -55,6 +55,7 @@
     .feature-area,
     .testimonial-area,
     .video-area,
+    .opinion-area,
     .progress-area {
         background-image: none;
         margin-bottom: 0;
@@ -90,6 +91,7 @@
         margin: 0 10px;
     }
     .video-area,
+    .opinion-area,
     .progress-area {
         background-image: none;
     }
@@ -98,6 +100,7 @@
     }
     .feature-area,
     .video-area,
+    .opinion-area,
     .progress-area {
         background-image: none;
         margin-bottom: 0;
@@ -192,6 +195,7 @@
     }
     .feature-area,
     .video-area,
+    .opinion-area,
     .progress-area {
         background-image: none;
         margin-bottom: 0;
